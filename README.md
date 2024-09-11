@@ -1,1 +1,1 @@
-# exercise-2
+# EXERCISE-2
